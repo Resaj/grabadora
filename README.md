@@ -11,6 +11,9 @@ El sistema se compone de:
 <img src="images/IMG_0313.jpg" width="700" align = "center">
 </p>
 
+## Autor
+[Rubén Espino San José](https://github.com/Resaj)
+
 ## License
 <p align="center">
 <img src="license/by-sa.png" align = "center">
